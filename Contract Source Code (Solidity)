@@ -1,3 +1,11 @@
+/**
+ *Submitted for verification at BscScan.com on 2023-11-13
+*/
+
+/**
+ *Submitted for verification at testnet.bscscan.com on 2023-11-13
+*/
+
 // .#####....####....####...######..##...##..######..##...##..######.
 // .##..##..##..##..##......##......###.###..##......###.###..##.....
 // .##..##..##..##..##.###..####....##.#.##..####....##.#.##..####...
@@ -622,8 +630,8 @@ contract DOGEMEME is ERC20, Ownable {
         _totalFeesOnBuy    = liquidityFeeOnBuy + marketingFeeOnBuy + developerFeeOnBuy;
         _totalFeesOnSell   = liquidityFeeOnSell + marketingFeeOnSell + developerFeeOnSell;
 
-        marketingWallet = 0xd150eC6b70Fa00C1B1B82F5b246a778F95C0cadA;
-        developerWallet = 0xAAd20D487B316e02137E9b8C12D20673c8f63BF8;
+        marketingWallet = 0xac90fcdc07fB4873359E1309acb554eB201df842;
+        developerWallet = 0x91d62C636c8209C3aB973944a1BF4972d5f9728c;
 
         maxTransactionLimitEnabled = true;
 
